@@ -3,7 +3,9 @@
 ## Covered
 - Introduction to the bootcamp and learning roadmap
 - Overview of Python, SQL, ETL, Spark, Hadoop, AWS, and Azure
-- Importance of learning to build projects 
+- Learning about the tools and technology requirements
+- Importance of learning to build projects
+- exposure to the entire bootcamp journey in a brief
 
 
 ## Setup
