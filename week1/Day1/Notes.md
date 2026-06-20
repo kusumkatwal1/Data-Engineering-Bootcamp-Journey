@@ -9,5 +9,5 @@
 
 
 ## Setup
-- Installed VS Code and required tools
+    - Installed VS Code and required tools
 
