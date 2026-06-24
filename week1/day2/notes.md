@@ -1,6 +1,6 @@
 # Day 2 - Python Basics & Collections
 
-## 1. Printing in Python
+## 1. Printing in Python:
 
     - `print()` is used to display output
     #Example:
@@ -12,7 +12,7 @@
     => You can use single or double quotes  '' or "" for a string
 
 
-## 2. Variables
+## 2. Variables:
 
         - Variables store values
         
