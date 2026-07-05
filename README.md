@@ -3,6 +3,7 @@ A structured, hands-on bootcamp where I work through core data engineering conce
 
 ## File Structure:
   - "README.md" :
+  - week1:
 
     
 @Kusum Katwal
