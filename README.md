@@ -6,6 +6,6 @@ A structured, hands-on bootcamp where I work through core data engineering conce
   - "week1" :
   - "week2" :
   - "week3" :
-  - week4
+  - "week4" :
     
 @Kusum Katwal
