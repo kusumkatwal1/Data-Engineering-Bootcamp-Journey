@@ -5,7 +5,7 @@ A structured, hands-on bootcamp where I work through core data engineering conce
   - "README.md" :
   - "week1" :
   - "week2" :
-  - "week3" 
+  - "week3" :
 
     
 @Kusum Katwal
