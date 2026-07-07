@@ -3,7 +3,7 @@ A structured, hands-on bootcamp where I work through core data engineering conce
 
 ## File Structure:
   - "README.md": this shows the structure and overall guidelines about the bootcamp
-  - "week1": orientation
+  - "week1": orientation, Python-Basics
   - "week2" :
   - "week3" :
   - "week4" :
