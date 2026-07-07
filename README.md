@@ -1,8 +1,8 @@
 # Data-Engineering-Bootcamp-Journey
-A structured, hands-on bootcamp where I work through core data engineering concepts, practicing Python, SQL, Pandas, NumPy, Apache Spark, PySpark, Hadoop, Hive, and Kafka to build ETL pipelines and data systems, while deploying cloud solutions on AWS and Azure with Snowflake and MongoDB.
+A structured, hands-on bootcamp where I work through core data engineering concepts and practice Python, SQL, Pandas, NumPy, Apache Spark, PySpark, Hadoop, Hive, and Kafka to build ETL pipelines and data systems, while deploying cloud solutions on AWS and Azure with Snowflake and MongoDB.
 
 ## File Structure:
-  - "README.md": this shows the structure and overall guidelines about the bootcamp
+  - "README.md": this shows the structure and overall guidelines about the bootcamp(walkthrough)
   - "week1": orientation, Python-Basics
   - "week2" :
   - "week3" :
