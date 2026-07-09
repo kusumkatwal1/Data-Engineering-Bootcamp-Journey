@@ -5,7 +5,7 @@
   - "**README.md**": this shows the structure and overall guidelines about the bootcamp(walkthrough)
   - "**week1**": orientation, Python-Basics
   - "**week2**" :
-  - "week3" :
+  - "**week3**" :
   - "week4" :
     
 @Kusum Katwal
